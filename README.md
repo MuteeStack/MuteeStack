@@ -28,7 +28,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muteeurrehman&style=for-the-badge&color=667eea" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MuteeStack&style=for-the-badge&color=667eea" alt="Profile Views"/>
 </p>
 
 ---
@@ -104,12 +104,11 @@ I craft modern, responsive, and user-friendly web applications using the latest 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuteeStack&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muteeurrehman&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuteeStack&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muteeurrehman&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuteeStack&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
