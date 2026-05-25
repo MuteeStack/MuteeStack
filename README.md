@@ -104,7 +104,7 @@ I craft modern, responsive, and user-friendly web applications using the latest 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muteeurrehman&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuteeStack&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muteeurrehman&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
