@@ -92,19 +92,6 @@ Configuration-driven CI/CD server automating deployments across multiple repos v
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuteeStack&show_icons=true&theme=tokyonight&hide_border=true" alt="Mutee's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteeStack&theme=tokyonight&hide_border=true" alt="Mutee's GitHub streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuteeStack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
