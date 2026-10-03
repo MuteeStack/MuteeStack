@@ -1,138 +1,116 @@
-<!-- Animated Header Wave -->
+<h1 align="center">Hi 👋, I'm Mutee Ur Rehman</h1>
+<h3 align="center">Full Stack Developer (Node.js, React.js, Cloud, and DevOps)</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mutee%20Ur%20Rehman&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Modern%20Web%20Artisan&descAlignY=55&descSize=18"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN;Building+Scalable+Web+Apps;React.js+%E2%80%A2+Node.js+%E2%80%A2+Next.js;CS+Student+%40+Air+University" alt="Typing SVG" />
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Crafting+Digital+Experiences+%F0%9F%92%BB;React+%7C+Next.js+%7C+TailwindCSS+Developer;Available+for+Freelance+%26+Contract+Work;Let%27s+Build+Something+Amazing+Together!"/>
-  </a>
-</p>
-
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/muteestack/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:iammutee275@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://x.com/Mutee275" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://mutee.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuteeStack&style=for-the-badge&color=667eea" alt="Profile Views"/>
+  <a href="https://mutee.me"><img src="https://img.shields.io/badge/Portfolio-mutee.me-2F81F7?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muteestack/"><img src="https://img.shields.io/badge/LinkedIn-muteestack-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muteejs275@gmail.com"><img src="https://img.shields.io/badge/Email-muteejs275%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-```js
-const mutee = {
-  location: "Pakistan 🇵🇰",
-  role: "Full Stack Developer",
-  focus: [
-    "Modern Web Apps",
-    "Responsive UI",
-    "Performance Optimization"
-  ],
-  tech: [
-    "React",
-    "Next.js",
-    "Tailwind CSS",
-    "Firebase",
-    "MongoDB"
-  ],
-  currently: "Available for freelance & contract work",
-};
-```
-
-I craft modern, responsive, and user-friendly web applications using the latest technologies in the React ecosystem. Passionate about building clean UI, scalable apps, and smooth user experiences.
+- 🎓 Studying **BS Computer Science** at **Air University**, Islamabad (2023 – 2027)
+- 💻 I build full-stack web apps and take on freelance/client projects — landing pages, e-commerce, and SaaS-style platforms
+- 🌱 Currently leveling up on **backend architecture, Redis, and scalable API design**
+- 💬 Ask me about **React.js, Next.js, Node.js, Express.js, MongoDB**
+- 📫 Reach me at **muteejs275@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 💻 Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ⚡ Frameworks & Libraries
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
-### 🗄️ Backend & Database
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### 🧰 Tools & Platforms
+**Databases & Caching**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+**Cloud & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+</p>
+
+**Tools & Integrations**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📌 Featured Projects
+
+#### [Storemystuff.cloud](#)
+Full-stack cloud storage platform used by 220+ users — secure file upload, sharing, and real-time storage tracking.
+- Subscription billing with Razorpay (webhooks, upgrades/downgrades, quota enforcement)
+- Role-based access control with Admin & Super Admin dashboards
+- AWS S3 + CloudFront CDN for optimized file delivery
+- Google Drive import, OAuth/OTP auth, Redis-backed sessions, rate limiting
+
+**Tech:** React.js · Node.js · Express.js · MongoDB · Redis · AWS (S3, CloudFront) · Razorpay
+
+#### Custom CI/CD Server
+Configuration-driven CI/CD server automating deployments across multiple repos via GitHub webhooks.
+- Intelligent change detection for selective builds/deployments
+- Health-check based rollback using a Last Known Good (LKG) strategy
+- Local & remote deployments with real-time success/failure notifications
+
+**Tech:** Node.js · Express.js · GitHub Webhooks · Nginx · PM2
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuteeStack&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuteeStack&show_icons=true&theme=tokyonight&hide_border=true" alt="Mutee's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteeStack&theme=tokyonight&hide_border=true" alt="Mutee's GitHub streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuteeStack&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuteeStack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-## 💼 Open For Work
-
-- 🎯 Freelance Projects
-- 🤝 Contract Work
-- 💡 Technical Consulting
-- 🚀 Full-time Opportunities
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:iammutee275@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-667eea?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://mutee.me"><img src="https://img.shields.io/badge/Portfolio-visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muteestack/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muteejs275@gmail.com"><img src="https://img.shields.io/badge/Email-message-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <i>Built with ❤️ by Mutee Ur Rehman</i>
-</p>
+<p align="center"><i>⭐️ From <a href="https://github.com/MuteeStack">MuteeStack</a></i></p>
