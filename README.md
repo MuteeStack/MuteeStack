@@ -73,15 +73,6 @@
 
 ### 📌 Featured Projects
 
-#### [Storemystuff.cloud](#)
-Full-stack cloud storage platform used by 220+ users — secure file upload, sharing, and real-time storage tracking.
-- Subscription billing with Razorpay (webhooks, upgrades/downgrades, quota enforcement)
-- Role-based access control with Admin & Super Admin dashboards
-- AWS S3 + CloudFront CDN for optimized file delivery
-- Google Drive import, OAuth/OTP auth, Redis-backed sessions, rate limiting
-
-**Tech:** React.js · Node.js · Express.js · MongoDB · Redis · AWS (S3, CloudFront) · Razorpay
-
 #### Custom CI/CD Server
 Configuration-driven CI/CD server automating deployments across multiple repos via GitHub webhooks.
 - Intelligent change detection for selective builds/deployments
