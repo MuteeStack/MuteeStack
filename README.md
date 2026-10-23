@@ -71,18 +71,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-#### Custom CI/CD Server
-Configuration-driven CI/CD server automating deployments across multiple repos via GitHub webhooks.
-- Intelligent change detection for selective builds/deployments
-- Health-check based rollback using a Last Known Good (LKG) strategy
-- Local & remote deployments with real-time success/failure notifications
-
-**Tech:** Node.js · Express.js · GitHub Webhooks · Nginx · PM2
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
